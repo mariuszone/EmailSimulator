@@ -1,5 +1,5 @@
 # SE T18 - Compulsory Task 1
-# Student: Marius Moldovan
+# Student: Marius M
 # Date: 15.06.2023
 
 ### --- OOP Email Simulator --- ###
